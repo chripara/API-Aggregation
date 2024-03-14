@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API Aggregation", "API Aggregation.csproj", "{C445B0F7-6013-4B83-9EAF-F15D7261F0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API Aggregation.Test", "..\API Aggregation.Test\API Aggregation.Test.csproj", "{DCC723B8-5278-4AB4-AC44-EB345390044A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C445B0F7-6013-4B83-9EAF-F15D7261F0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C445B0F7-6013-4B83-9EAF-F15D7261F0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C445B0F7-6013-4B83-9EAF-F15D7261F0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C445B0F7-6013-4B83-9EAF-F15D7261F0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC723B8-5278-4AB4-AC44-EB345390044A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC723B8-5278-4AB4-AC44-EB345390044A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC723B8-5278-4AB4-AC44-EB345390044A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC723B8-5278-4AB4-AC44-EB345390044A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
